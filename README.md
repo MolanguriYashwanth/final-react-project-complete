@@ -14,3 +14,6 @@ ComponentDidMount -> use useEffect with empty array as dependency
 
 
 We can replace connect with useSelector and useDispatch provided by react-redux module
+
+
+// [currentIngredients,dispatch]=UseReducer(reduceFunc,[]);
